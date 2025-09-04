@@ -94,4 +94,4 @@ Within the body, there is a question - in this example: "what are the latest new
 Produce a response to that question, and use the Slack MCP tool to write a response using Slack ChatPostMessage
 ```
 
-![alt text](<Screenshot 2025-09-04 at 4.19.38 pm.png>)
+![alt text](</images/Screenshot.png>)
