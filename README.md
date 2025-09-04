@@ -10,7 +10,7 @@ This guide walks you through creating a Slack app and linking it to an Airia age
 - Go to the Slack API website: [api.slack.com/apps](https://api.slack.com/apps) and log into your workspace.
 - From the dashboard, click on **Your Apps** to create a new one.
 
-![alt text](image.png)
+![alt text](/images/image.png)
 
 ### Step 2: Create a New App
 - Click on **Create New App**.
@@ -18,7 +18,7 @@ This guide walks you through creating a Slack app and linking it to an Airia age
 - Enter a name for your app and select the workspace to develop it in.
     - Note: The app workspace cannot be changed later.
 
-![alt text](image-2.png)
+![alt text](/images/image-2.png)
 
 ### Step 3: Set Up OAuth & Permissions
 - Navigate to **OAuth & Permissions**.
@@ -27,7 +27,7 @@ This guide walks you through creating a Slack app and linking it to an Airia age
   - `chat:write`
   - `commands`
 
-![alt text](image-4.png)
+![alt text](/images/image-4.png)
 
 ### Step 4: Define Your Webhook
 
@@ -36,7 +36,7 @@ This guide walks you through creating a Slack app and linking it to an Airia age
 - Set Authentication Type to **Unauthenticated**.
 - Save the webhook; you will receive a **Webhook URL**.
 
-![alt text](image-5.png)
+![alt text](/images/image-5.png)
 
 ---
 
@@ -48,7 +48,7 @@ This guide walks you through creating a Slack app and linking it to an Airia age
   - Click on **Subscribe to bot events**
   - Add the event name `app_mention`
 
-![alt text](image-6.png)
+![alt text](/images/image-6.png)
 
 ---
 
@@ -56,7 +56,7 @@ This guide walks you through creating a Slack app and linking it to an Airia age
 - Install your app to the Airia workspace.
 - Copy the **Bot User OAuth Token** provided after installation. You will need this token in the next step.
 
-![alt text](image-7.png)
+![alt text](/images/image-7.png)
 
 ---
 
