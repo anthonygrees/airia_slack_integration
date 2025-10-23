@@ -5,7 +5,7 @@ This guide walks you through creating a Slack app and linking it to an Airia age
 
 Maintainer: Alyssa Giuliano: Solutions Consultant @ Airia.ai
 
-[![Alt text]([https://www.loom.com/share/ee030e45e3bb4afea20d67da357cc2cb](https://www.loom.com/share/ee030e45e3bb4afea20d67da357cc2cb?sid=9df0a7b8-c7d0-4980-b8c6-1076a4c76863))
+https://www.loom.com/share/ee030e45e3bb4afea20d67da357cc2cb?sid=9df0a7b8-c7d0-4980-b8c6-1076a4c76863
   
 ---
 
